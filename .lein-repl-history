@@ -1,0 +1,35 @@
+hai
+(use 'training-day)
+hai
+(use 'training-day)
+square 2
+square 4
+square 2
+square 4
+(use 'training-day)
+square 4
+(square 2)
+(use 'training-day)
+(square 2)
+clear
+:Q
+:q
+exit
+(use 'training-day)
+(average 2 3)
+(use 'training-day)
+exit
+(user 'training-day :reload)
+(use 'training-day :reload)
+(average 2 3)
+exit
+(use 'training-day :reload)
+(average 2 3)
+exit
+(average 2 3)
+(use 'training-day :reload)
+(average 2 3)
+(average 2 4)
+(average 4 4)
+(average 2 4)
+(average 4 4)
